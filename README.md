@@ -1,2 +1,1 @@
-# resume
-Github page for my resume
+https://felipemancilla.github.io/cv/
